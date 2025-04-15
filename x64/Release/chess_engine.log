@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  chess_engine.vcxproj -> C:\Users\marwa\source\repos\chess_engine\x64\Release\chess_engine.exe
